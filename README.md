@@ -1,2 +1,2 @@
 # aluralivros
-projeto feito durante um curso.
+Site feito com HTML e CSS puro.
